@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\bin\Debug\AppTempo.exe.config
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\bin\Debug\AppTempo.exe
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\bin\Debug\AppTempo.pdb
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.frmTempo.resources
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.Properties.Resources.resources
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.csproj.CopyComplete
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.exe
+C:\Users\Aluno\Desktop\appTempo\AppTempo\AppTempo\obj\Debug\AppTempo.pdb
