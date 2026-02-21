@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\bin\Debug\Consulta CEP.exe.config
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\bin\Debug\Consulta CEP.exe
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\bin\Debug\Consulta CEP.pdb
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta_CEP.frmBuscaCep.resources
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta_CEP.Properties.Resources.resources
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.exe
+C:\Users\Aluno\Desktop\appTempo\Consulta CEP\Consulta CEP\obj\Debug\Consulta CEP.pdb
